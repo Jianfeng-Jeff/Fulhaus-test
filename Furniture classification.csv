@@ -1,0 +1,301 @@
+,Filename,Predictions,Ground Truth,Prediction Correctness
+0,Bed/120cm Bed with underbed drawer.jpg,Sofa,Bed,False
+1,Bed/140 cm double bed.jpg,Sofa,Bed,False
+2,Bed/160 cm kingsize bed.jpg,Sofa,Bed,False
+3,Bed/180 cm super kingsize bed.jpg,Chair,Bed,False
+4,Bed/90cm Bed with underbed drawer.jpg,Sofa,Bed,False
+5,Bed/ALBI BED.jpg,Sofa,Bed,False
+6,Bed/Addison King Bed.jpg,Sofa,Bed,False
+7,Bed/Aidan Bed-Heavy Pebble Pewter-Queen.jpg,Sofa,Bed,False
+8,Bed/Aidan Bed-Vintage Tobacco-King.jpg,Bed,Bed,True
+9,Bed/Aidan King Bed-Pebble Pewter.jpg,Sofa,Bed,False
+10,Bed/Aiden Velvet Bed.jpg,Bed,Bed,True
+11,Bed/Alexander Queen Bed.jpg,Chair,Bed,False
+12,Bed/Alina Full Platform Bed Frame.jpg,Bed,Bed,True
+13,Bed/Alina Queen Platform Bed Frame.jpg,Sofa,Bed,False
+14,Bed/Alina Twin Platform Bed Frame.jpg,Sofa,Bed,False
+15,Bed/Amaris Full Fabric Platform Bed with Round Splayed Legs.jpg,Bed,Bed,True
+16,Bed/Amaris King Fabric Platform Bed with Squared Tapered Legs.jpg,Bed,Bed,True
+17,Bed/Amaris Queen Fabric Platform Bed with Round Splayed Legs.jpg,Sofa,Bed,False
+18,Bed/Amaris Queen Fabric Platform Bed with Squared Tapered Legs in Gray _ Modway.jpg,Bed,Bed,True
+19,Bed/Amaris Queen Fabric Platform Bed with Squared Tapered Legs.jpg,Bed,Bed,True
+20,Bed/Amaris Twin Fabric Platform Bed with Round Splayed Legs.jpg,Bed,Bed,True
+21,Bed/Amaris Twin Fabric Platform Bed with Squared Tapered Legs.jpg,Bed,Bed,True
+22,Bed/Amelia Full Upholstered Fabric Bed.jpg,Bed,Bed,True
+23,Bed/Amelia King Performance Velvet Bed.jpg,Bed,Bed,True
+24,Bed/Amelia King Upholstered Fabric Bed.jpg,Sofa,Bed,False
+25,Bed/Amelia Queen Faux Leather Bed.jpg,Bed,Bed,True
+26,Bed/Amelia Queen Upholstered Bed.jpg,Bed,Bed,True
+27,Bed/Amelia Queen Upholstered Fabric Bed.jpg,Bed,Bed,True
+28,Bed/Amelia Twin Faux Leather Bed.jpg,Sofa,Bed,False
+29,Bed/Amelia Twin Performance Velvet Bed.jpg,Bed,Bed,True
+30,Bed/Amelie Bed King Black.jpg,Bed,Bed,True
+31,Bed/Amelie Bed King White.jpg,Sofa,Bed,False
+32,Bed/Amelie Bed Queen White.jpg,Sofa,Bed,False
+33,Bed/Amelie Full Bed Black.jpg,Bed,Bed,True
+34,Bed/Amelie Full Bed Gray.jpg,Sofa,Bed,False
+35,Bed/Amelie Full Bed White.jpg,Sofa,Bed,False
+36,Bed/Amelie King Bed Gray.jpg,Sofa,Bed,False
+37,Bed/Amelie Queen Bed Black.jpg,Bed,Bed,True
+38,Bed/Amelie Queen Bed Gray.jpg,Sofa,Bed,False
+39,Bed/Amira Full Performance Velvet Bed.jpg,Bed,Bed,True
+40,Bed/Amira Full Upholstered Fabric Bed.jpg,Bed,Bed,True
+41,Bed/Amira King Performance Velvet Bed.jpg,Bed,Bed,True
+42,Bed/Amira King Upholstered Fabric Bed.jpg,Sofa,Bed,False
+43,Bed/Amira Queen Performance Velvet Bed.jpg,Sofa,Bed,False
+44,Bed/Amira Queen Upholstered Fabric Bed.jpg,Sofa,Bed,False
+45,Bed/Amira Twin Upholstered Fabric Bed.jpg,Bed,Bed,True
+46,Bed/Angela Blush Bed in Queen.jpg,Bed,Bed,True
+47,Bed/Annika Queen Platform Bed Annika Queen Platform Bed in Gray.jpg,Sofa,Bed,False
+48,Bed/Annika Queen Platform Bed in Brown.jpg,Bed,Bed,True
+49,Bed/Annika Queen Platform Bed.jpg,Bed,Bed,True
+50,Bed/Anya Beige Queen Bed.jpg,Bed,Bed,True
+51,Bed/Anya Full Bed.jpg,Bed,Bed,True
+52,Bed/Anya Full Fabric Bed in Beige.jpg,Sofa,Bed,False
+53,Bed/Anya Full Fabric Bed in Light Gray .jpg,Bed,Bed,True
+54,Bed/Anya Full Fabric Bed in Light Gray.jpg,Sofa,Bed,False
+55,Bed/Anya Full Fabric Bed.jpg,Sofa,Bed,False
+56,Bed/Anya Queen Bed in Gray.jpg,Bed,Bed,True
+57,Bed/Anya Queen Bed.jpg,Sofa,Bed,False
+58,Bed/Anya Twin Bed.jpg,Sofa,Bed,False
+59,Bed/Arwen Queen Rustic Wood Bed.jpg,Bed,Bed,True
+60,Bed/Ashland Queen Faux Leather Platform Bed.jpg,Sofa,Bed,False
+61,Bed/Astra Queen Wood Platform Bed .jpg,Chair,Bed,False
+62,Bed/Aubree Grey Queen Bed.jpg,Bed,Bed,True
+63,Bed/Aubree Queen Bed.jpg,Sofa,Bed,False
+64,Bed/Aubree Queen Upholstered Fabric Sleigh Platform Bed.jpg,Bed,Bed,True
+65,Bed/Aubree Queen Upholstered Platform Bed in Beige.jpg,Sofa,Bed,False
+66,Bed/August King Bed.jpg,Bed,Bed,True
+67,Bed/Baxton Studio Adela Modern and Contemporary Grey Finished Wood Queen Size Platform Bed.jpg,Sofa,Bed,False
+68,Bed/Baxton Studio Adela Modern and Contemporary Grey Finished Wood Twin Size Platform Bed.jpg,Bed,Bed,True
+69,Bed/Baxton Studio Adelaide Retro Modern Light Beige Fabric Upholstered Queen Size Platform Bed.jpg,Sofa,Bed,False
+70,Bed/Baxton Studio Adelaide Retro Modern Light Grey Fabric Upholstered Queen Size Platform Bed.jpg,Sofa,Bed,False
+71,Bed/Baxton Studio Adelia Mid-Century Light Beige Whitewash Queen Size Platform Bed.jpg,Bed,Bed,True
+72,Bed/Baxton Studio Adelie Modern Glam Light Grey Velvet Fabric Upholstered Walnut Brown Finished Wood Queen Size Wingback Platform Bed .jpg,Sofa,Bed,False
+73,Bed/Baxton Studio Aden Modern and Contemporary Charcoal Grey Fabric Upholstered Full Size Bed.jpg,Bed,Bed,True
+74,Bed/Baxton Studio Aden Modern and Contemporary Grey Fabric Upholstered Queen Size Bed.jpg,Bed,Bed,True
+75,Bed/Baxton Studio Ainge Contemporary Button-Tufted Light Beige Fabric Upholstered Storage King-Size Bed with 2-drawer.jpg,Chair,Bed,False
+76,Bed/Baxton Studio Alba Modern Transitional Ash Walnut Brown Finished Wood Full Size 4-Drawer Platform Storage Bed with Built-In Shelves.jpg,Bed,Bed,True
+77,Bed/Baxton Studio Alba Modern Transitional Ash Walnut Brown Finished Wood King Size 4-Drawer Platform Storage Bed with Built-In Shelves.jpg,Bed,Bed,True
+78,Bed/Baxton Studio Alesha Modern and Contemporary Beige Fabric Upholstered Queen Size Bed.jpg,Bed,Bed,True
+79,Bed/Baxton Studio Alesha Modern and Contemporary Charcoal Grey Fabric Upholstered Queen Size Bed.jpg,Bed,Bed,True
+80,Bed/Baxton Studio Alesha Modern and Contemporary Grey Fabric Upholstered Full Size Bed.jpg,Sofa,Bed,False
+81,Bed/Baxton Studio Alessia Dark Brown Faux Leather Upholstered Daybed with Guest Trundle Bed.jpg,Sofa,Bed,False
+82,Bed/Baxton Studio Alessia Modern and Contemporary Beige Fabric Upholstered Daybed with Guest Trundle Bed.jpg,Sofa,Bed,False
+83,Bed/Baxton Studio Alessia Modern and Contemporary Grey Fabric Upholstered Daybed with Guest Trundle Bed.jpg,Sofa,Bed,False
+84,Bed/Baxton Studio Alessia White Faux Leather Upholstered Daybed with Guest Trundle Bed.jpg,Sofa,Bed,False
+85,Bed/Baxton Studio Alinia Mid-century Retro Modern Grey Fabric Upholstered Walnut Wood King Size Platform Bed.jpg,Bed,Bed,True
+86,Bed/Baxton Studio Alinia Mid-century Retro Modern Light Beige Fabric Upholstered Walnut Wood King Size Platform Bed.jpg,Bed,Bed,True
+87,Bed/Baxton Studio Alke Mid-Century Modern Dark Grey Fabric Upholstered Walnut Brown Finished Wood Queen Size Platform Bed.jpg,Bed,Bed,True
+88,Bed/Baxton Studio Alke Mid-Century Modern Light Grey Fabric Upholstered Walnut Brown Finished Wood King Size Platform Bed.jpg,Bed,Bed,True
+89,Bed/Baxton Studio Allegra Mid-Century Modern Dark Grey Fabric Upholstered and Ash Walnut Brown Finished Wood King Size Platform Bed.jpg,Bed,Bed,True
+90,Bed/Baxton Studio Alya Classic Traditional Farmhouse Walnut Brown Finished Wood Twin Size Daybed with Roll-Out Trundle Bed.jpg,Sofa,Bed,False
+91,Bed/Baxton Studio Alya Classic Traditional Farmhouse White Finished Wood Twin Size Daybed with Roll-Out Trundle Bed.jpg,Sofa,Bed,False
+92,Bed/Baxton Studio Aneta Modern and Contemporary Grey Fabric Upholstered King Size Platform Bed.jpg,Sofa,Bed,False
+93,Bed/Baxton Studio Annalisa Modern Transitional Beige Fabric Upholstered Button Tufted King Size Panel Bed.jpg,Sofa,Bed,False
+94,Bed/Bed Venla 160 x 200 cm blue.jpg,Sofa,Bed,False
+95,Bed/Darcy Luxe and Glamour Dark Grey Velvet Upholstered Queen Size Bed.jpg,Bed,Bed,True
+96,Bed/Makenna Queen Performance Velvet Platform Bed.jpg,Bed,Bed,True
+97,Bed/Raina Queen Canopy Bed Frame.jpg,Sofa,Bed,False
+98,Bed/Shayndel Bed 150 x 190 cm.jpg,Bed,Bed,True
+99,Bed/aura.jpg,Sofa,Bed,False
+100,Chair/ADRIENNE LINEN CHROME LEG SWIVEL OFFICE CHAIR.jpg,Sofa,Chair,False
+101,Chair/ADRIENNE VELVET CHROME LEG SWIVEL OFFICE CHAIR.jpg,Sofa,Chair,False
+102,Chair/ALBUS SWIVEL OFFICE CHAIR BLACK.jpg,Chair,Chair,True
+103,Chair/ALBUS SWIVEL OFFICE CHAIR BLUE.jpg,Chair,Chair,True
+104,Chair/AMBER DESK CHAIR.jpg,Chair,Chair,True
+105,Chair/AMY TUFTED LINEN CHROME LEG SWIVEL OFFICE CHAIR.jpg,Sofa,Chair,False
+106,Chair/AMY TUFTED VELVET CHROME LEG SWIVEL OFFICE CHAIR.jpg,Sofa,Chair,False
+107,Chair/ANGEL Dining Chair.jpg,Chair,Chair,True
+108,Chair/Abner PU Swivel Chair.jpg,Chair,Chair,True
+109,Chair/Adara Desk Chair-Knoll Natural.jpg,Chair,Chair,True
+110,Chair/Advance Office Chair.jpg,Chair,Chair,True
+111,Chair/Air Grid and Mesh Office Chair.jpg,Chair,Chair,True
+112,Chair/Airi Office Chair.jpg,Chair,Chair,True
+113,Chair/Alexa Desk Chair-Savile Flax.jpg,Chair,Chair,True
+114,Chair/Allen Molded PC Office Chair.jpg,Chair,Chair,True
+115,Chair/Allison Bungie Flat High Back Office Chair.jpg,Chair,Chair,True
+116,Chair/Allison Bungie Flat Low Back Office Chair.jpg,Chair,Chair,True
+117,Chair/Allison Bungie Low Back Office Chair.jpg,Chair,Chair,True
+118,Chair/Alpha Office Chair.jpg,Chair,Chair,True
+119,Chair/Amber Desk Chair-Distressed Brown.jpg,Chair,Chair,True
+120,Chair/Amber Desk Chair-Savile Flax.jpg,Chair,Chair,True
+121,Chair/Amelia Office Chair.jpg,Chair,Chair,True
+122,Chair/Amish Dining Wood Armchair in Black .jpg,Chair,Chair,True
+123,Chair/Amish Dining Wood Armchair in White .jpg,Chair,Chair,True
+124,Chair/Andrew Office Chair.jpg,Chair,Chair,True
+125,Chair/Archer Executive Chair.jpg,Sofa,Chair,False
+126,Chair/Ardor Office Chair in Black .jpg,Chair,Chair,True
+127,Chair/Ardor Office Chair.jpg,Chair,Chair,True
+128,Chair/Ariel Desk Chair.jpg,Sofa,Chair,False
+129,Chair/Armen Living Bellevue Mid-Century Office Chair in Chrome Finish with Black Faux Leather and Walnut Veneer.jpg,Chair,Chair,True
+130,Chair/Armen Living Bellevue Mid-Century Office Chair in Chrome Finish with Grey Faux Leather and Walnut Veneer.jpg,Chair,Chair,True
+131,Chair/Armen Living Bowie Mid-Century Office Chair in Chrome finish with Black Faux Leather and Walnut Veneer Back.jpg,Chair,Chair,True
+132,Chair/Armen Living Century Office Chair with Multifunctional Mechanism in Chrome finish with Black Faux Leather and Walnut Veneer Back.jpg,Chair,Chair,True
+133,Chair/Armen Living Daphne Modern Office Chair In Chrome Finish with Black Faux Leather And Walnut Veneer Back.jpg,Chair,Chair,True
+134,Chair/Armen Living Diamond Mid-Century Office Chair in Chrome finish with Tufted Black Faux Leather and Walnut Veneer Back.jpg,Chair,Chair,True
+135,Chair/Armen Living Geneva Mid-Century Office Chair in Chrome finish with Black Faux Leather and Walnut Veneer Arms.jpg,Chair,Chair,True
+136,Chair/Armen Living Geneva Mid-Century Office Chair in Chrome finish with Gray Faux Leather and Walnut Veneer Arms.jpg,Chair,Chair,True
+137,Chair/Armen Living Julian Modern Office Chair In Chrome Finish with Black Faux Leather And Walnut Veneer Back.jpg,Chair,Chair,True
+138,Chair/Armen Living Santiago Mid-Century Office Chair in Black Faux Leather with Walnut Wood Finish.jpg,Chair,Chair,True
+139,Chair/Armen Living Truly Contemporary Swivel Chair in Grey Velvet and Black Velvet Piping.jpg,Sofa,Chair,False
+140,Chair/Armen Living Wallace Mid-Century Office Chair in Chrome finish with Black Faux Leather and Walnut Veneer Back.jpg,Chair,Chair,True
+141,Chair/Arrow Swivel Chair-Dobie Ecru.jpg,Sofa,Chair,False
+142,Chair/Articulate Drafting Chair.jpg,Chair,Chair,True
+143,Chair/Articulate Mesh Office Chair.jpg,Chair,Chair,True
+144,Chair/Articulate Vinyl Office Chair.jpg,Chair,Chair,True
+145,Chair/Arya KD Fabric Swivel Chair.jpg,Chair,Chair,True
+146,Chair/Arya KD Top Grain Leather Swivel Chair.jpg,Sofa,Chair,False
+147,Chair/Ascend Mid Back Office Chair.jpg,Chair,Chair,True
+148,Chair/Assert Mesh Drafting Chair.jpg,Chair,Chair,True
+149,Chair/Assert Mesh Office Chair.jpg,Chair,Chair,True
+150,Chair/Attainment Office Chair.jpg,Chair,Chair,True
+151,Chair/Attainment Vinyl Drafting Chair.jpg,Chair,Chair,True
+152,Chair/Augustine Swivel Chair-Deacon Wolf.jpg,Sofa,Chair,False
+153,Chair/Augustine Swivel Chair-Dover Crescent.jpg,Sofa,Chair,False
+154,Chair/Augustine Swivel Chair-Hudson Lager.jpg,Sofa,Chair,False
+155,Chair/Augustine Swivel Chair-Orly Natural.jpg,Sofa,Chair,False
+156,Chair/Augustine Swivel Chair-Sapphire Navy.jpg,Sofa,Chair,False
+157,Chair/Axel High Back Office Chair.jpg,Chair,Chair,True
+158,Chair/Axel Low Back Office Chair.jpg,Chair,Chair,True
+159,Chair/BELINDA DESK CHAIR.jpg,Sofa,Chair,False
+160,Chair/BERNARD DESK CHAIR.jpg,Bed,Chair,False
+161,Chair/BRUNNER DESK CHAIR.jpg,Sofa,Chair,False
+162,Chair/Baba Flat High Back Office Chair.jpg,Chair,Chair,True
+163,Chair/Banks Swivel Chair-Cambric Ivory.jpg,Sofa,Chair,False
+164,Chair/Banks Swivel Chair-Rider Black.jpg,Sofa,Chair,False
+165,Chair/Banks Swivel Chair-Stonewash Heavy Jute.jpg,Sofa,Chair,False
+166,Chair/Banks Swivel Chair-Umber Grey.jpg,Sofa,Chair,False
+167,Chair/Baxton Studio Ambrosio Modern and Contemporary Black Faux Leather Upholstered Chrome-Finished Metal Adjustable Swivel Office Chair.jpg,Chair,Chair,True
+168,Chair/Baxton Studio Baxton Studio Elsa Modern and Contemporary White Faux Leather Upholstered Swivel Chair with Metal Base.jpg,Sofa,Chair,False
+169,Chair/Baxton Studio Bruce Modern and Contemporary White and Walnut Office Chair.jpg,Chair,Chair,True
+170,Chair/Baxton Studio Bruce Walnut and Black Modern Office Chair.jpg,Chair,Chair,True
+171,Chair/Baxton Studio Elia Acrylic Swivel Chair.jpg,Chair,Chair,True
+172,Chair/Baxton Studio Maida Mid-Century Modern Light Brown Fabric Upholstered Office Chair.jpg,Chair,Chair,True
+173,Chair/Baxton Studio Micah Modern and Contemporary Beige Fabric Upholstered Tufted Swivel Chair.jpg,Sofa,Chair,False
+174,Chair/Baxton Studio Micah Modern and Contemporary Grey Fabric Upholstered Tufted Swivel Chair.jpg,Sofa,Chair,False
+175,Chair/Baxton Studio Rathburn Modern and Contemporary White and Walnut Office Chair.jpg,Chair,Chair,True
+176,Chair/Baxton Studio Rathburn Walnut and Black Modern Office Chair.jpg,Chair,Chair,True
+177,Chair/Baxton Studio Rayner Modern and Contemporary Beige Fabric Upholstered Swivel Chair.jpg,Sofa,Chair,False
+178,Chair/Baxton Studio Rayner Modern and Contemporary Grey Fabric Upholstered Swivel Chair.jpg,Sofa,Chair,False
+179,Chair/Baxton Studio Watson Modern and Contemporary White and Walnut Office Chair.jpg,Chair,Chair,True
+180,Chair/Baxton Studio Watson Walnut and Black Modern Office Chair.jpg,Chair,Chair,True
+181,Chair/Becket Fabric Swivel Chair.jpg,Chair,Chair,True
+182,Chair/Beckett Fabric Swivel Chair.jpg,Sofa,Chair,False
+183,Chair/Beckett PU Swivel Chair.jpg,Sofa,Chair,False
+184,Chair/Belma Low Back Office Chair.jpg,Chair,Chair,True
+185,Chair/Bergen High Back Office Chair.jpg,Chair,Chair,True
+186,Chair/Bergen Low Back Office Chair.jpg,Chair,Chair,True
+187,Chair/Big Man_s AirGrid Drafting Chair.jpg,Chair,Chair,True
+188,Chair/Bina High Back Office Chair.jpg,Chair,Chair,True
+189,Chair/Bina Low Back Office Chair.jpg,Chair,Chair,True
+190,Chair/Bonded Leather Executive Chair with Padded Flip Arms and Silver Base.jpg,Chair,Chair,True
+191,Chair/Bonded Leather Executive Chair with.jpg,Chair,Chair,True
+192,Chair/Bonded Leather Executive Chair.jpg,Chair,Chair,True
+193,Chair/Braden Desk Chair-Light Camel.jpg,Chair,Chair,True
+194,Chair/Bradley Bungie Office Chair.jpg,Chair,Chair,True
+195,Chair/Brandon Office Chair.jpg,Chair,Chair,True
+196,Chair/Brice Modern Office Chair in Industrial Grey Finish and Brown Fabric with Pine Wood Arms.jpg,Chair,Chair,True
+197,Chair/Bridgeway Office Chair.jpg,Chair,Chair,True
+198,Chair/Brooklyn High Back Office Chair.jpg,Chair,Chair,True
+199,Chair/Brooklyn Low Back Office Chair.jpg,Chair,Chair,True
+200,Sofa/2 Seater Sofa.jpg,Sofa,Sofa,True
+201,Sofa/3 Seater Sofa.jpg,Sofa,Sofa,True
+202,Sofa/ANDAMAN SOFA.jpg,Sofa,Sofa,True
+203,Sofa/ANDERS SOFA .jpg,Sofa,Sofa,True
+204,Sofa/ARIA.jpg,Sofa,Sofa,True
+205,Sofa/ASTORIA FOLDABLE FUTON BED.jpg,Sofa,Sofa,True
+206,Sofa/AUGUSTINE SOFA.jpg,Sofa,Sofa,True
+207,Sofa/Abbott 85 Sofa-Cigar.jpg,Sofa,Sofa,True
+208,Sofa/Activate Upholstered Fabric Sofa and Armchair Set.jpg,Sofa,Sofa,True
+209,Sofa/Activate Upholstered Fabric Sofa.jpg,Sofa,Sofa,True
+210,Sofa/Adept Performance Velvet Sofa.jpg,Sofa,Sofa,True
+211,Sofa/Agile Upholstered Fabric Sofa and Armchair Set.jpg,Sofa,Sofa,True
+212,Sofa/Agile Upholstered Fabric Sofa.jpg,Sofa,Sofa,True
+213,Sofa/Alba Lounge Sofa.jpg,Sofa,Sofa,True
+214,Sofa/Albie Sofa.jpg,Sofa,Sofa,True
+215,Sofa/Alena Wool Blend Loveseat.jpg,Sofa,Sofa,True
+216,Sofa/Align Upholstered Fabric Corner Sofa.jpg,Sofa,Sofa,True
+217,Sofa/Allure 2 Piece Sofa and Armchair Set.jpg,Sofa,Sofa,True
+218,Sofa/Allure 3 Piece Sofa and Armchair Set.jpg,Sofa,Sofa,True
+219,Sofa/Allure Upholstered Sofa.jpg,Sofa,Sofa,True
+220,Sofa/Archer Media Sofa-84.jpg,Sofa,Sofa,True
+221,Sofa/Arizona Sofa Table.jpg,Chair,Sofa,False
+222,Sofa/Armen Living Amanda Black Corner Sofa.jpg,Sofa,Sofa,True
+223,Sofa/Armen Living Amanda White Corner Sofa.jpg,Sofa,Sofa,True
+224,Sofa/Armen Living Andre Contemporary Chair In Gray Tweed and Stainless Steel.jpg,Bed,Sofa,False
+225,Sofa/Armen Living Andre Contemporary Sofa Chair in Brushed Stainless Steel and Blue Fabric.jpg,Sofa,Sofa,True
+226,Sofa/Armen Living Andre Contemporary Sofa In Gray Tweed and Stainless Steel.jpg,Sofa,Sofa,True
+227,Sofa/Armen Living Andre Contemporary Sofa in Brushed Stainless Steel and Blue Fabric.jpg,Sofa,Sofa,True
+228,Sofa/Armen Living Barrister Chair In Gray Velvet with Black Piping.jpg,Chair,Sofa,False
+229,Sofa/Armen Living Barrister Sofa In Black Velvet With Crystal Buttons.jpg,Sofa,Sofa,True
+230,Sofa/Armen Living Barrister Sofa In Gray Velvet With Black Piping.jpg,Sofa,Sofa,True
+231,Sofa/Armen Living Cambridge Contemporary Sofa Chair in Brushed Stainless Steel and Dark Grey Velvet.jpg,Sofa,Sofa,True
+232,Sofa/Armen Living Cambridge Contemporary Sofa in Brushed Stainless Steel and Dark Grey Velvet.jpg,Sofa,Sofa,True
+233,Sofa/Armen Living Cobra Mid-Century Modern Sofa in Blue Linen and Walnut Legs.jpg,Sofa,Sofa,True
+234,Sofa/Armen Living Cobra Mid-Century Modern Sofa in Dark Gray Linen and Walnut Legs.jpg,Sofa,Sofa,True
+235,Sofa/Armen Living Elegance Contemporary Sofa Chair in Grey Velvet with Acrylic Legs.jpg,Sofa,Sofa,True
+236,Sofa/Armen Living Elegance Contemporary Sofa in Grey Velvet with Acrylic Legs.jpg,Sofa,Sofa,True
+237,Sofa/Armen Living Element Mid-Century Modern Sofa in Dark Gray Linen and Walnut Legs.jpg,Sofa,Sofa,True
+238,Sofa/Armen Living Everly Contemporary Chair in Genuine Dove Grey Leather with Brushed Stainless Steel Legs.jpg,Sofa,Sofa,True
+239,Sofa/Armen Living Everly Contemporary Sofa in Genuine Black Leather with Brushed Stainless Steel Legs.jpg,Sofa,Sofa,True
+240,Sofa/Armen Living Everly Contemporary Sofa in Genuine Dove Grey Leather with Brushed Stainless Steel Legs.jpg,Sofa,Sofa,True
+241,Sofa/Armen Living Hope Contemporary Chair in Genuine Dove Grey Leather with Black Metal Legs.jpg,Sofa,Sofa,True
+242,Sofa/Armen Living Hope Contemporary Sofa in Genuine Dove Grey Leather with Black Metal Legs.jpg,Sofa,Sofa,True
+243,Sofa/Armen Living Hudson Mid-Century Button-Tufted Sofa in Beige Linen and Walnut Legs.jpg,Sofa,Sofa,True
+244,Sofa/Armen Living Hudson Mid-Century Button-Tufted Sofa in Dark Gray Linen and Walnut Legs.jpg,Sofa,Sofa,True
+245,Sofa/Armen Living Jedd Contemporary Chair in Genuine Black Leather with Brown Wood Legs.jpg,Sofa,Sofa,True
+246,Sofa/Armen Living Jedd Contemporary Sofa in Genuine Black Leather with Brown Wood Legs.jpg,Sofa,Sofa,True
+247,Sofa/Armen Living Odyssey Sofa Chair in Brushed Stainless Steel finish with Grey Tweed and Black Nail heads.jpg,Sofa,Sofa,True
+248,Sofa/Armen Living Odyssey Sofa in Brushed Stainless Steel finish with Grey Tweed and Black Nail heads.jpg,Sofa,Sofa,True
+249,Sofa/Armen Living Palisade Contemporary Sofa in Blue Velvet with Brown Wood Legs.jpg,Sofa,Sofa,True
+250,Sofa/Armen Living Palisade Contemporary Sofa in Grey Velvet with Brown Wood Legs.jpg,Sofa,Sofa,True
+251,Sofa/Armen Living Palisade Transitional Sofa in Sand Fabric with Brown Legs.jpg,Sofa,Sofa,True
+252,Sofa/Armen Living Phantom Mid-Century Modern Sofa in Dark Gray Linen and Walnut Legs.jpg,Sofa,Sofa,True
+253,Sofa/Armen Living Regis Contemporary Sofa in Grey Fabric with Black Metal Finish Legs and Antique Brown Nailhead Accents.jpg,Sofa,Sofa,True
+254,Sofa/Armen Living Regis Cream Sofa With Pine Frame And Gunmetal Legs.jpg,Sofa,Sofa,True
+255,Sofa/Armen Living Royce Contemporary Sofa with Polished Stainless Steel and Grey Fabric.jpg,Sofa,Sofa,True
+256,Sofa/Armen Living Skyline Sofa In White Bonded Leather.jpg,Sofa,Sofa,True
+257,Sofa/Armen Living Winston Antique Blue Bonded Leather Sofa Chair.jpg,Sofa,Sofa,True
+258,Sofa/Armen Living Winston Antique Blue Bonded Leather Sofa.jpg,Sofa,Sofa,True
+259,Sofa/Armen Living Wynne Contemporary Sofa in Genuine Black Leather with Brown Wood Legs.jpg,Sofa,Sofa,True
+260,Sofa/Armen Living Wynne Contemporary Sofa in Genuine Espresso Leather with Brown Wood Legs.jpg,Sofa,Sofa,True
+261,Sofa/Armen Living Zanna Contemporary Sofa in Genuine Dark Brown Leather with Brown Wood Legs.jpg,Sofa,Sofa,True
+262,Sofa/Arno Blush Sofa.jpg,Bed,Sofa,False
+263,Sofa/Artena 3 Seater Sofa.jpg,Sofa,Sofa,True
+264,Sofa/Arti Grey Velvet Loveseat.jpg,Sofa,Sofa,True
+265,Sofa/Ascoli Lounge Sofa.jpg,Sofa,Sofa,True
+266,Sofa/Asta Sofa-98-Fedora Pewter.jpg,Sofa,Sofa,True
+267,Sofa/Atlantic Sofa.jpg,Sofa,Sofa,True
+268,Sofa/Augustine Sofa-97-Deacon Wolf.jpg,Sofa,Sofa,True
+269,Sofa/Augustine Sofa-97-Dover Crescent.jpg,Sofa,Sofa,True
+270,Sofa/Augustine Sofa-97-Hudson Lager.jpg,Sofa,Sofa,True
+271,Sofa/Augustine Sofa-97-Orly Natural.jpg,Sofa,Sofa,True
+272,Sofa/Augustine Sofa-97-Sapphire Navy.jpg,Sofa,Sofa,True
+273,Sofa/Aura Outdoor Patio Wicker Rattan Sofa.jpg,Sofa,Sofa,True
+274,Sofa/Avalon Sofa.jpg,Sofa,Sofa,True
+275,Sofa/Bag Sofa Velvet Anthracite.jpg,Sofa,Sofa,True
+276,Sofa/Bag Sofa Velvet Green(1).jpg,Sofa,Sofa,True
+277,Sofa/Bag Sofa Velvet Pink.jpg,Sofa,Sofa,True
+278,Sofa/Bag Sofa Velvet Sand.jpg,Sofa,Sofa,True
+279,Sofa/Bag sofa velvet green.jpg,Sofa,Sofa,True
+280,Sofa/Baxton Studio Adalynn Modern and Contemporary White Faux Leather Upholstered Sectional Sofa.jpg,Sofa,Sofa,True
+281,Sofa/Baxton Studio Adalynn Modern and Contemporary White Faux Leather Upholstered Sofa.jpg,Sofa,Sofa,True
+282,Sofa/Baxton Studio Agnes French Provincial Beige Linen Fabric Upholstered and White-Washed Oak Wood Sofa.jpg,Sofa,Sofa,True
+283,Sofa/Baxton Studio Agnew Contemporary Light Beige Microfiber Right Facing Sectional Sofa.jpg,Sofa,Sofa,True
+284,Sofa/Baxton Studio Alaise Modern Classic Beige Linen Tufted Scroll Arm Chesterfield Sofa.jpg,Sofa,Sofa,True
+285,Sofa/Baxton Studio Alaise Modern Classic Grey Linen Tufted Scroll Arm Chesterfield Sofa.jpg,Sofa,Sofa,True
+286,Sofa/Baxton Studio Allister Mid-Century Modern Dark Grey Fabric Upholstered 2-Piece Living Room Set.jpg,Chair,Sofa,False
+287,Sofa/Baxton Studio Allister Mid-Century Modern Dark Grey Fabric Upholstered Sofa.jpg,Sofa,Sofa,True
+288,Sofa/Baxton Studio Allister Mid-Century Modern Light Grey Fabric Upholstered 2-Piece Living Room Set.jpg,Sofa,Sofa,True
+289,Sofa/Baxton Studio Allister Mid-Century Modern Light Grey Fabric Upholstered Sofa.jpg,Sofa,Sofa,True
+290,Sofa/Baxton Studio Ally Modern and Contemporary Beige Fabric Upholstered Twin Size Sofa Daybed with Roll Out Trundle Guest Bed.jpg,Sofa,Sofa,True
+291,Sofa/Baxton Studio Ally Modern and Contemporary Charcoal Fabric Upholstered Twin Size Sofa Daybed with Roll Out Trundle Guest Bed.jpg,Sofa,Sofa,True
+292,Sofa/Baxton Studio Ally Modern and Contemporary Grey Fabric Upholstered Twin Size Sofa Daybed with Roll Out Trundle Guest Bed.jpg,Sofa,Sofa,True
+293,Sofa/Baxton Studio Amaris Modern and Contemporary Black Bonded Leather 5-Piece Power Reclining Sectional Sofa with USB Ports.jpg,Sofa,Sofa,True
+294,Sofa/Baxton Studio Amaris Modern and Contemporary Grey Bonded Leather 5-Piece Power Reclining Sectional Sofa with USB Ports.jpg,Sofa,Sofa,True
+295,Sofa/Baxton Studio Ambra Glam and Luxe Grey Velvet Fabric Upholstered and Button Tufted Sofa with Gold-Tone Frame.jpg,Sofa,Sofa,True
+296,Sofa/Baxton Studio Ambra Glam and Luxe Royal Blue Velvet Fabric Upholstered and Button Tufted Gold Sofa with Gold-Tone Frame.jpg,Sofa,Sofa,True
+297,Sofa/Baxton Studio Arcadia Modern and Contemporary Grey Fabric Upholstered Button-Tufted Living Room 3-Seater Sofa.jpg,Sofa,Sofa,True
+298,Sofa/Baxton Studio Arcadia Modern and Contemporary Light Beige Fabric Upholstered Button-Tufted Living Room 3-Seater Sofa.jpg,Sofa,Sofa,True
+299,Sofa/Winslow Modern and Contemporary Blue Fabric Upholstered 2-Piece Left Facing Sectional.jpg,Sofa,Sofa,True
